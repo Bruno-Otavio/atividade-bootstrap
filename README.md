@@ -1,1 +1,7 @@
-# atividade-bootstrap
+# Site usando bootstrap
+
+## Habilidades requeridas
+
+ - HTML
+ - CSS
+ - Bootstrap
